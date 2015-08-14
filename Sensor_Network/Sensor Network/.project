@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Sensor Network</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>foscam.py</name>
+			<type>1</type>
+			<location>C:/Users/Tom/Documents/GitHub/Sensor_Network/Sensor_Network/sensor_network_v1_0/foscam.py</location>
+		</link>
+		<link>
+			<name>sensor_network.py</name>
+			<type>1</type>
+			<location>C:/Users/Tom/Documents/GitHub/Sensor_Network/Sensor_Network/sensor_network_v1_0/sensor_network.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>
