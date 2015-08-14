@@ -12,7 +12,7 @@ CGI documentation.
 
 Ken Ramsey, 18Feb2013
 """
- 
+
 import urllib
 import time
 from threading import Thread

@@ -24,7 +24,7 @@ def main():
 #         devcam.set_video_frequency(1)
 #         devcam.set_video_frequency(0)
         picture = devcam.snap_picture()
-         
+        
         status = devcam.move(devcam.PTZ_BOTTOM_LEFT)
         if(status != 0):
             raise CameraError
